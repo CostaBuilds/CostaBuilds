@@ -14,4 +14,4 @@
 ![React.Native](https://img.shields.io/badge/-React.Native-0D1117?style=for-the-badge&logo=react&logoColor=yellow&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Apple](https://img.shields.io/badge/-apple-0D1117?style=for-the-badge&logo=apple&logoColor=yellow&labelColor=0D1117)&nbsp; 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffde3d&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer"/>
