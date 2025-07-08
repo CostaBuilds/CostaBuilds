@@ -4,6 +4,7 @@
 
 <div align="center">  
     <img width="49%" height="205px" src="https://github-readme-stats.vercel.app/api?username=CostaBuilds&show_icons=true&count_private=true&hide_border=true&title_color=0ac8f7&icon_color=ffffff&text_color=c9d1d9&bg_color=0d1117" alt="Costa's github stats" /> 
+     <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CostaBuilds&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 
   <img width="41%" height="245px" src="https://www.smartsight.in/wp-content/uploads/2019/10/golang-300x200.png" alt="Golang Development"/>
 </div>
